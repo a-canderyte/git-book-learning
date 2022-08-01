@@ -1,7 +1,15 @@
 # Linux Useful Commands
 
-### Create directory
+
+
+**To enter into bash mode on azure**&#x20;
 
 ```
-mkdir 
+bash
+```
+
+**Interactive mode which has auto completion**
+
+```
+az interactive
 ```
