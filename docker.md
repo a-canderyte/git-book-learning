@@ -31,3 +31,10 @@ docker exec -it mysqlserver bash
 \-it - interactive
 
 enter your server "mysqlserver" - name of the service
+
+```
+docker buil -t hello .
+```
+
+tag this image as "hello" and look for it in the current dir&#x20;
+
