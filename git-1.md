@@ -26,7 +26,7 @@ go back in time with 4 digits / characters of your head commit
 git checkout main/master
 ```
 
-go back to the most recent commit
+go back to the most recent commit, navigate to master/main branch
 
 ```
 git branch name-of-new-branch
