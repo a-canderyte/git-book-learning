@@ -57,3 +57,17 @@ git push -u origin main
 ```
 
 push your local repo to github public repo
+
+```
+git pull
+```
+
+to take the changes from remote repository
+
+```
+git clone https://linkfromremoterepo.com
+```
+
+make sure it is in a different directory so that it doesnt have another repo
+
+also make sure to move to the repo's directory name/title
