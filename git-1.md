@@ -39,3 +39,21 @@ git merge master/main
 merge / pull master features into your branch
 
 you need to be in your destination branch
+
+```
+git diff master
+```
+
+check what is different
+
+```
+git remote add origin https://github.com/a-canderyte/DevOps_Monday_Existing.git
+```
+
+add github.com repo to local
+
+```
+git push -u origin main
+```
+
+push your local repo to github public repo
