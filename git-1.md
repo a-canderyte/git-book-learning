@@ -27,3 +27,8 @@ git checkout main/master
 ```
 
 go back to the most recent commit
+
+```
+git branch name-of-new-branch
+```
+
