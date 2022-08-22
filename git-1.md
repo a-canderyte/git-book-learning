@@ -37,3 +37,5 @@ git merge master/main
 ```
 
 merge / pull master features into your branch
+
+you need to be in your destination branch
