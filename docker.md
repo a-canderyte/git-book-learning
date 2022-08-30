@@ -38,3 +38,7 @@ docker buil -t hello .
 
 tag this image as "hello" and look for it in the current dir&#x20;
 
+```
+docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q)
+```
+
