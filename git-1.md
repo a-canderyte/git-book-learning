@@ -78,3 +78,8 @@ git checkout -b <branchname>
 
 to create new branch and move to that branch in one go
 
+```
+git rebase
+```
+
+moving the main branch ahead with the feature branch
