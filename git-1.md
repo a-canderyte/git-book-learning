@@ -146,3 +146,20 @@ git describe
 
 <figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 12.27.08.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.14.29.png" alt=""><figcaption></figcaption></figure>
+
+```
+git fetch
+```
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.31.40.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.32.39.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.34.46.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.46.04.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.47.11.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.48.43.png" alt=""><figcaption></figcaption></figure>
