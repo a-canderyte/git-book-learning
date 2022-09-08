@@ -96,3 +96,53 @@ moving upwards once commit at a time
 
 moving upwards a number of times
 
+```
+git branch -f main HEAD~3
+```
+
+moves by force the main branch to three parents behind HEAD
+
+```
+git reset
+```
+
+reverses changes by moving a branch reference backwards in time to an older commit. It will move a branch backwards as if the commit had never been made in the first place.
+
+```
+ex: git reset HEAD~1
+```
+
+```
+git revert
+```
+
+in order to reverse changes and share those reversed changes with others, we need to use git revert
+
+```
+ex: git revert HEAD
+```
+
+```
+git cherry-pick <Commit1> <Commit2> <...>
+```
+
+straightforward way of saying that you would like to copy a series of commits below your current location (HEAD)&#x20;
+
+```
+git rebase -i
+```
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 12.15.32.png" alt=""><figcaption></figcaption></figure>
+
+```
+git tag v1 C1
+```
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 12.23.04.png" alt=""><figcaption></figcaption></figure>
+
+```
+git describe
+```
+
+<figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 12.27.08.png" alt=""><figcaption></figcaption></figure>
+
