@@ -71,3 +71,10 @@ git clone https://linkfromremoterepo.com
 make sure it is in a different directory so that it doesnt have another repo
 
 also make sure to move to the repo's directory name/title
+
+```
+git checkout -b <branchname>
+```
+
+to create new branch and move to that branch in one go
+
