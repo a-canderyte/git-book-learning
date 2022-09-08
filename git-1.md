@@ -83,3 +83,16 @@ git rebase
 ```
 
 moving the main branch ahead with the feature branch
+
+```
+^
+```
+
+moving upwards once commit at a time
+
+```
+~<num>
+```
+
+moving upwards a number of times
+
