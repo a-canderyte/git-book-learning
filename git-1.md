@@ -163,3 +163,22 @@ git fetch
 <figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.47.11.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2022-09-08 at 16.48.43.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<pre><code><strong>git reflog</strong></code></pre>
+
+you will see everything you've done in git, across all branches
+
+```
+git commit --amend --no-edit
+```
+
+amends last commit, only for local branches, not for public repos
+
+```
+git commit --amend
+```
+
+to change commit message
+
